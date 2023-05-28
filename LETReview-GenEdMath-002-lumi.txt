@@ -1,0 +1,191 @@
+1. Simplify: 6 – [3 – (-4) + 11 + 8]
+-26		
+20		
+26
+*-20
+
+2. What are the prime factors of 120?
+2 x 2 x 2 x 6 x 5	
+2 x 4 x 3 x 5 		
+2 x 3 x 4 x 5		
+*2 x 2 x 2 x 3 x 5 	
+
+3. Find the least common multiple of 5, 2, 7.
+35 		
+140		
+15		
+*70
+
+4. The least common multiple (LCM) of 2, 3 and 4 is ______.
+13		
+14 		
+24		
+*12
+
+5. What is the least common multiple of 12 and 60?
+12		
+*60		
+120		
+360
+
+6. Which of the following has the greatest value:
+\(3 + 3^2 + (3 + 3)^2\)	
+\(3^3\)		
+*\([(3 + 3)^2]^2\)		
+\((3 + 3 + 3)^2\)
+
+7. Which of the following has the largest value?
+*85 	
+39 		
+65 		
+94
+
+8. A factory produced 2,300 TV sets in its first year of production. 4,500 sets were produced in its second year and 500 more sets were produced in its third year than in its second year. How many TV sets were produced in three years?
+*11,800	 
+12,800	
+10,800	
+13,800
+
+9. Which common fraction is equivalent to 0.215?
+*43/200 	
+27/125 	
+21/50	
+108/375
+
+10. It takes John 25 minutes to walk to the car park and 45 minutes to drive to work. At what time should he get out of the house in order to get to work at 9:00 a.m.?
+*7\(\colon\)50 am	
+8\(\colon\)00 am	
+8\(\colon\)10 am	
+8\(\colon\)20 am
+
+11. 120 is 4/5 of what number?
+*150		
+96		
+30		
+24
+
+12. Nelia takes ¾ hour to dress and get ready for school. It takes 4/5 hour to reach the school. If her class starts promptly at 8:00 am; what is the latest time she can jump out of bed in order not to be late for school?
+6\(\colon\)42 am 	
+*6\(\colon\)27 am 	
+6\(\colon\)57 am 	
+7\(\colon\)02 am
+
+13. A child has read 2/3 of a book. The read part of the book has 100 pages more than the unread. How many pages is the book?
+*300		
+200		
+500		
+150
+
+14.  What is the value of 12⅙ - 3 ⅜ - 5 ⅔ + 20 ¾?
+21 1/8	
+22		
+*23 7/8	
+21
+
+15. What percent of 75 is 15?
+*20%	
+30%		
+38%		
+40%
+
+16. What is 150% of 298?
+*447		
+44.7
+4.47
+4,470
+
+17. 45 is 60% of what number?
+*75		
+27		
+15		
+18
+
+18. What is the ratio of 1/5 to 5/15
+*3\(\colon\)5		
+1\(\colon\)5		
+5\(\colon\)15		
+15\(\colon\)75
+
+19. Three brothers inherited a cash amount of ₱62,000 and they divided it among themselves in the ratio of 5:4:1. How much more is the largest share than the smallest share?
+₱75,000 	
+₱30,000 	
+*₱24,800	
+None of the above
+
+20. In a certain school, the ratio of boys to girls is 5 is to 7. If there are 180 boys and girls in the school, how many boys are there?
+105 		
+90 		
+45		
+*75
+
+21. On a certain day, three computer technicians took turns in manning a 24-hour internet shop. The number of hours Cesar, Bert, and Danny were on duty was in the ratio 3:4:5, respectively. The shop owner pays them ₱50 per hour. How much would Danny receive for that day?
+₱230 	
+*₱500 	
+₱160	
+₱480
+
+22. Kim can walk 4 kilometers in one hour. How long does it take Kim to walk 18 kilometers?
+*4 ½ hours	
+4 hours	
+5 hours	
+8 hours
+
+23. A container contains 23 bottles and each bottle contains 20 marbles. How many marbles are there in 10 bottles?
+460		
+400		
+100		
+*200
+
+24. A water tank contains 18 liters when it is 20% full. How many liters does it contain when 50% full?
+60 		
+30 		
+58 		
+*45
+
+25. Two (2) tablespoons is equivalent to 1 liquid ounce while 10 tablespoons is equivalent to ½ cup. How many liquid ounces are there in two cups?
+*20 ounces		
+10 ounces		
+16 ounces		
+8 ounces
+
+26. At what rate per annum should ₱2,400 be invested so that it will earn an interest of ₱800 in 8 years?
+6 ½ %	
+5 ½ %	
+*4.17 %	
+6 %
+
+27. A retailer buys candies for ₱67.25. The pack has 35 pieces of candies. If she sells each candy for ₱2.25, how much profit does she make?
+*₱11.50 	
+₱56.25 	
+₱37.50 	
+₱18.75
+
+28. A book is on sale and is being sold at 20% off its regular price.  If the original price is ₱80, how much is the sale price?
+₱54		
+₱56		
+*₱64		
+₱66
+
+29. The discounted price of a book that is on sale at 30% discount is ₱210.  What is the regular price of the book?
+₱220	
+₱270	
+₱290	
+*₱300
+
+30. A taxi charges ₱50 for the first kilometer and charges ₱3 for each additional mile. How far could ₱200 go?
+50 kilometers	
+*51 kilometers	
+66. 67 kilometers
+4 kilometers
+
+31. John can eat a quarter of a pizza in one minute. How long does it take John to eat one pizza and a half?
+*6 minutes		
+12 minutes		
+9 minutes		
+3 minutes
+
+32. How many square inches are in 2 square yards?
+900 		
+144 		
+1,296		
+*2,592

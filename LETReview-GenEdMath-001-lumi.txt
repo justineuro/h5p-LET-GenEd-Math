@@ -1,0 +1,181 @@
+1. Which statement is true?
+\(\sqrt{5}\) is a rational number
+\(0\) is a positive number
+*\(\sqrt{3}\) is a real number
+\(\sqrt{4}\) is an irrational number
+
+2. The thousandths digit of the number 1,234.5678 is _____.
+1
+*7
+8
+5
+
+3. (4)(-6) + (12 \(\times\) 3) = ____.
+10
+*12
+14
+15
+
+4. The difference between gross profit and cost of goods sold is known as _____.
+markdown
+discount
+*net profit
+invoice price
+
+5. Julius has ₱15,000 in the bank.  After a year, he expects it to earn ₱750.  What is the rate of interest?
+2%
+4%
+*5%
+6%
+
+6. The greatest common divisor of 91, 39, and 78 is _____.
+24
+*13
+39
+91
+
+7. The property of real numbers which describes (5+6) + 3 = 3 + (5+6) is _____.
+*Commutative
+Associative
+Distributive
+Reflexive
+
+8. Which is a proportion?
+*5\(\colon\)4 = 15\(\colon\)12
+8\(\colon\)3 = 16\(\colon\)9
+4\(\colon\)5 = 12\(\colon\)10
+½:7 = 5:2
+
+9. After receiving a 30% discount, Jay paid ₱210.00 for an item.  What is the regular price of the item?
+*₱300
+₱350
+₱380
+₱400
+
+10. Peter borrowed ₱15,000 from the bank at a rate of 12% per year.  How much will he owe the bank after 1.5 years?
+₱16,000
+₱17,000
+₱16,700
+*₱17,700
+
+11. 1/8 in percent is _____.
+10.5%
+*12.5%
+14.5%
+16.5%
+
+12. John invested ₱5,000 in a certain business.  How much will his money be in 2 years if it earns 12% interest in a year?
+₱6,000
+₱6,100
+*₱6,200
+₱6,300
+
+13. What do you call an equality of two ratios?
+quotient
+fraction
+percentage
+*proportion
+
+14. The number of hours spent for review in Algebra, Chemistry, and English is in the ratio 4:3:1.  How many hours does each student spend for Chemistry in a 24-hour review package?
+3
+6
+*9
+12
+
+15. What is the value of 3.5 kilograms in grams?
+35
+350
+*3,500
+35,000
+
+16. The least common multiple of 18 and 24 is _____.
+6
+24
+36
+*72
+
+17. How many pieces of 7½ inches wire can be cut from 31 ¼ ft roll of wire?
+5
+10
+25
+*50
+
+18. What do you call a triangle all of whose sides are congruent to each other?
+scalene
+*equilateral
+isosceles
+right
+
+19. How many centimeters are there in 100 millimeters?
+0.1
+1
+*10
+1000
+
+20. A balls is drawn at random from a box containing 3 red balls, 4 white balls, and 5 blue balls.  What is the probability that it is not blue?
+1/4
+1/2
+*7/12
+1
+
+21. A salesman gets a 15% commission for the first ₱20,000, and 10% for the amount over ₱20,000 of his total sales.  How much does he get for a total sale of ₱50,600?
+₱5,060
+*₱6,060
+₱7,060
+₱8,060
+
+22. A TV set that originally cost ₱20,000 is now sold at ₱18,000.  What is the percentage decrease in the price of the TV set?
+*10%
+20%
+30%
+40%
+
+23. At 70 kph, Robin can reach his home within 50 minutes.  At what rate should he drive his car so that he can reach home 15 minutes earlier?
+60 kph
+80 kph
+90 kph
+*100 kph
+
+24. A typist can finish 4 pages in 6 minutes.  How long will it take for him to finish 10 pages?
+20 minutes
+*15 minutes
+10 minutes
+8 minutes
+
+25. Four people can finish painting a room within 4 hours.  If only 2 people are available, how many hours do they have to work to finish the same job?
+4
+6
+*8
+10
+
+26. \((3\sqrt{8})(3\sqrt{18})\) = _____.
+*108
+110
+112
+114
+
+27. Jean bought 5 kilos of rice worth ₱200 and another 4 kilos of rice worth ₱144.  What is the average price of rice per kilo?
+₱38.00
+₱36.00
+₱40.00
+*₱38.22
+
+28. 72 is ¾ of what number?
+76
+84
+86
+*96
+
+29. 0.0125 expressed in fraction in lowest term is _____.
+1/8
+1/4
+1/800
+*1/80
+
+30. Jack and Jill work as part of the service crew in one of the fastfood chains.  If their earnings were in the ratio of 7:8, respectively, how much did Jack earn if Jill earned ₱6,400?
+₱6,200
+*₱5,600
+₱5,800
+₱6,080
+
+

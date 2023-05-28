@@ -1,0 +1,167 @@
+1. Two buses leave the same station at 8:00 pm. One bus travels north at the rate of 30 kph and the other travels east at 40 kph. How many kilometers apart are the buses at 10 pm?
+140 km	
+*100 km	
+70 km	
+50 km
+
+2. The edges of a rectangular solid have these measures: 1.5 feet by 1½ feet by 3 inches. What is its volume in cubic inches?
+324 		
+225 		
+*972 		
+27
+
+3. Which of these has the longest perimeter?
+A square 21 cm on a side
+A rectangle 19 cm long and 24 cm wide
+An equilateral triangle whose side is 28 cm		
+*A right triangle whose two legs are 24 and 32 cm
+
+4. The legs of one right triangle are 9 and 12, while those of another right triangle are 12 and 16. How much longer is the perimeter of the larger triangle than the perimeter of the smaller triangle?
+84 		
+7 		
+*12 		
+14
+
+5. The vertex angle of an isosceles triangle is 20°. What is the measure of one of the base angles?
+150° 	
+60° 		
+75°		
+*80°
+
+6. A leg of a 45° - 45° - 90° triangle measures x cm. What is the length of its hypotenuse?
+x√3 cm	
+x cm		
+(x√3)/2 cm		
+*x√2 cm
+
+7. At a certain time of day, the tip of the shadow of a tree that is standing upright on level ground, is 9 meters from the base of the tree.  At this time of day, the angle of elevation from the tip of the shadow of the tree to the top of the tree is 30°.  Find the height of the tree.
+2 meters		
+3√2 meters 		
+4 meters		
+*3√3 meters
+
+8. Which of the following type of angle has the largest angle measure?
+right angle		
+*obtuse angle 	
+acute angle		
+cannot be determined
+
+9. If an angle and its complement have the same angle measure then that angle measures _____
+30°		
+*45°		
+60°		
+90°
+
+10. If the measure of an angle is twice the measure of its supplement, then the latter measures _____.
+45°		
+90°		
+*60°		
+120°
+
+11. Simplify 3(x – 4y) – (4y – 3x) – (2x + y)
+4x + 17y		
+-4x + 17y 		
+*4x – 17y		
+-4 – 17y
+
+12. Simplify completely: 2x + 4y – 3xyz – (4x – 5y + 7xyz)
+*-2x + 9y – 10xyz	
+2x – y – 10xyz 	
+-2x + 9y + 4xyz 	
+6x + 9y – 10xyz
+
+13. Which of the following is the factorization of the binomial \((x^2 - 4^2)\)?
+\((x + 4)(x + 2)\)
+\((x – 4)^2\)	
+\(x(x + 2x + 2)\)
+*\((x – 4)(x + 4)\)
+
+14. Simplify \(\large \frac{x^2 - y^2}{x + y}\).
+y – x	
+*x – y 	
+–x - -y	
+–x + y
+
+15. The area of a rectangle is \((x^2 + 2x - 8)\). If its length is \(x + 4\), what is its width?
+\(x + 2 \)
+*\(x - 2 \)
+\(x + 1\)
+\(x + 6\)
+
+16. Simplify completely: \(\large\frac{3^0x^{-3}y^2z}{9xy^3z^{3/2}}\)
+\(\large\frac{1}{3x^4y\sqrt{z}}\)	
+*\(\large\frac{\sqrt{z}}{9x^4yz}\)
+\(\large\frac{\sqrt{z}}{9x^2y}\)
+\(\large\frac{y^5}{9x^4y\sqrt{z}}\)
+
+17. Simplify completely: \(\large\frac{x - y}{x + y} \times \large\frac{x^2 - y^2}{x^3 - y^3} \div \large\frac{(x - y)^2}{x^2 + xy + y^2}\).
+\(x - y\)
+\(\large\frac{1}{x + y}\)
+*\(\large\frac{1}{x - y}\)
+1
+
+18. Simplify completely: \(\small  2\sqrt{2} - \sqrt[\large 4]{4} - \sqrt{12} + \sqrt{3}\)
+√2 + √3	
+*√2 - √3	
+0		
+-√2 + √4
+
+19. What is the value of y if 2x + 2xy + 3y = 25, and x = 2?
+*3		
+25		
+2		
+12
+
+20. What is the value of n in the statement 2mn = 50, if m = 1?
+*25		
+2		
+50		
+1
+
+21. What value of x will satisfy the equation: 0.4(5x – 1,470) = x?
+490		
+2,130	
+1,470	
+*588
+
+22. One store sold twice as much apples in the afternoon than in the morning. The store sold 450 pieces of apples. How many apples were sold in the morning?
+*150		
+300		
+200		
+350
+
+23. Joey gathered twice more marbles than Vic and Tito gathered 2 more marbles than Vic. They gathered 26 marbles. How many marbles did Vic gather?
+*6		
+12		
+8		
+14
+
+24. Tom and Bob have a total of 49 toys. If Bob has 5 more toys than Tom, how many toys does Tom have?
+*22		
+27		
+23		
+26
+
+25. A number is divided by 5. The result was subtracted by 154 and the difference is 6. What is the number?
+*800		
+160		
+200		
+400
+
+26. Ana and Beth do a job together in three hours. Working alone, Ana does the job in 5 hours. How long will it take Beth to do the job alone?
+3 and 1/3 hours 	
+2 and 1/3 hours 	
+3 hours 	
+*7 and 1/2 hours
+
+27. An online shop sells a certain calculator for ₱950 and charges ₱150 for shipping within Manila, regardless of the number of calculators ordered. Which of the following equations shows the total cost (y) of an order as a function of the number of calculators ordered (x)?
+y = (950 + 150)x 	
+y = 150x + 950 	
+x = 950y + 150 	
+*y = 950x + 150
+
+28. In a playground for Kindergarten kids, 18 children are riding tricycles or bicycles. If there are 43 wheels in all, how many tricycles are there?
+8 		
+9 		
+*7 		
+11
