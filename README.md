@@ -1,7 +1,7 @@
 ## h5p-LET-GenEd-Math
 [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  More information on H5P may be found at [https://h5p.org](https://h5p.org).
 
-The file [`LETReview-GenEd-Math.html`](./LETReview-GenEd-Math.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-LET-GenEd-Math/index.html)) contains links to three (3) H5Ps that use the [Question Set H5P template](https://h5p.org/question-set).
+The file [`LETReview-GenEd-Math.html`](./LETReview-GenEd-Math.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-LET-GenEd-Math/LETReview-GenEd-Math.html)) contains links to three (3) H5Ps that use the [Question Set H5P template](https://h5p.org/question-set).
 
 This folder includes (among others):  
   
