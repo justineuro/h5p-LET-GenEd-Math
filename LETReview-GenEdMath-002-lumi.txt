@@ -35,10 +35,10 @@
 \((3 + 3 + 3)^2\)
 
 7. Which of the following has the largest value?
-*85 	
-39 		
-65 		
-94
+*\(8^5\) 	
+\(3^9\) 		
+\(6^5\) 		
+\(9^4\)
 
 8. A factory produced 2,300 TV sets in its first year of production. 4,500 sets were produced in its second year and 500 more sets were produced in its third year than in its second year. How many TV sets were produced in three years?
 *11,800	 
