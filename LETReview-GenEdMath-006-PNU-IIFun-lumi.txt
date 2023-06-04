@@ -52,15 +52,15 @@
 55%
 75%
 
-10. If 80% of a number N is 48, then N is equal to 
+10. If 80% of a number N is 48, then N is equal to
 *60
 6
 0.6
 600
 
 11. If \(a\) and \(b\) are real numbers then \(a + b\) and \(a \times b\) are also real numbers because of the __________ Property of Real Numbers.
-*Closure 
-Commutative 
+*Closure
+Commutative
 Associative
 Reflexive
 
@@ -68,15 +68,15 @@ Reflexive
 Reflexive
 *Symmetric
 Transitive
-Commutative 
+Commutative
 
 13. If x, y, and z are real numbers, and x = y and y = z, then x = z because of the __________ Property of Equality.
 Reflexive
 Symmetric
 *Transitive
-Commutative 
+Commutative
 
-14. If a = b then a + c = b + c because of the _________ Property of Equality. 
+14. If a = b then a + c = b + c because of the _________ Property of Equality.
 *Addition
 Multiplication
 Identity
@@ -101,7 +101,7 @@ Reflexive
 *\(x^4 - y^4 = (x - y)(x + y)(x^2 + y^2)\)
 
 18. Simplify completely: \(\left[\left(\frac{\large x + y}{\large x^2 - y^2}\right)\left(\frac{\large 1}{\large x^{-1}}-\frac{\large 1}{\large y^{-1}}\right)\right] + x + y\)
-*\(1 + x + y\) 
+*\(1 + x + y\)
 \(2x\)
 \(2y\)
 \(x^2 + y^2\)
@@ -118,27 +118,27 @@ Reflexive
 \(\frac{\large 1}{\large xy}\)
 \(\frac{\large 1}{\large x + xy + y}\)
 
-21. If \( 3x - 5 \le 2x + 1 \) then
+21. Solve: \( 3x - 5 \le 2x + 1 \) 
 *\(x \le 6\)
 \(x \le 2\)
 \(x \ge 1\)
 \(x \ge 6\)
 
-22. If \( \vert x + 2 \vert \gt 5 \) then
+22. Solve: \( \vert x + 2 \vert \gt 5 \)
 *\(x \lt -7\)  or  \(x \gt 3\)
 \(x \lt -3\)  or  \(x \gt 7\)
 \(x \lt -5\)  or  \(x \gt 5\)
 \(x \lt -3/2\)  or  \(x \gt 3/2\)
 
-23. If \( \vert x - 3 \vert \le 4 \) then 
-*\(-1 \le x \le 7\) 
+23. Solve: \( \vert x - 3 \vert \le 4 \)
+*\(-1 \le x \le 7\)
 \(1 \le x \le 7\)
 \(-4 \le x \le 4\)
 \(-7 \le x \le 7\)
 
 24. Ani's grades in the last four tests were 85, 89, 90, and 93. What must be her grade in the fifth and last test to get an average of at least 90?
-91 
-92 
+91
+92
 *93
 94
 
