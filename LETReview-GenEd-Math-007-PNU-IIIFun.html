@@ -1,0 +1,19 @@
+<div id='h5p-container'></div>
+<script type="text/javascript" src="dist/main.bundle.js"></script>
+<script type="text/javascript">
+const el = document.getElementById('h5p-container');
+const options = {
+  h5pJsonPath:  './LETReview-GenEd-Math-007-PNU-IIIFun',
+  frameJs: './dist/frame.bundle.js',
+  frameCss: './dist/styles/h5p.css',
+  customJs: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-AMS-MML_HTMLorMML',
+  frame: true,
+  copyright: true,
+  export: true,
+  icon: true,
+  downloadUrl: 'https://github.com/justineuro/h5p-LET-GenEd-Math/raw/main/LETReview-GenEd-Math-007-PNU-IIIFun.h5p',
+  embed: true,
+  embedCode: '<iframe width=":w" height=":h" src="https://justineuro.github.io/h5p-LET-GenEd-Math/" frameBorder="0" scrolling="no" styles="width:100%"></iframe>',
+}
+new H5PStandalone.H5P(el, options);
+</script>
