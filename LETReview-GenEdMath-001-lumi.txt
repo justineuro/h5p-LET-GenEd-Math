@@ -44,7 +44,7 @@ Reflexive
 *5\(\colon\)4 = 15\(\colon\)12
 8\(\colon\)3 = 16\(\colon\)9
 4\(\colon\)5 = 12\(\colon\)10
-½:7 = 5:2
+½\(\colon\)7 = 5\(\colon\)2
 
 9. After receiving a 30% discount, Jay paid ₱210.00 for an item.  What is the regular price of the item?
 *₱300

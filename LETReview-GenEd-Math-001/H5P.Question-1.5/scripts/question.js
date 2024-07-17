@@ -1,3 +1,5 @@
+H5P.Tooltip = H5P.Tooltip || function() {};
+
 H5P.Question = (function ($, EventDispatcher, JoubelUI) {
 
   /**
@@ -660,9 +662,16 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
         if (!button.isTruncated && button.isVisible) {
           var $button = button.$element;
           buttonsWidth -= button.width.max - button.width.min;
+          // Set tooltip (needed by H5P.Tooltip)
+          let buttonText = $button.text();
+          $button.attr('data-tooltip', buttonText);
 
+          // Use button text as aria label if a specific one isn't provided
+          if (!button.ariaLabel) {
+            $button.attr('aria-label', buttonText);
+          }
           // Remove label
-          button.$element.attr('aria-label', $button.text()).html('').addClass('truncated');
+          $button.html('').addClass('truncated');
           button.isTruncated = true;
           if (buttonsWidth <= maxButtonsWidth) {
             // Buttons are small enough.
@@ -692,6 +701,15 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
           }
           // Restore label
           button.$element.html(button.text);
+
+          // Remove tooltip (used by H5P.Tooltip)
+          button.$element.removeAttr('data-tooltip');
+
+          // Remove aria-label if a specific one isn't provided
+          if (!button.ariaLabel) {
+            button.$element.removeAttr('aria-label');
+          }
+
           button.$element.removeClass('truncated');
           button.isTruncated = false;
         }
@@ -849,6 +867,20 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
     };
 
     /**
+     * Process HTML escaped string for use as attribute value,
+     * e.g. for alt text or title attributes.
+     *
+     * @param {string} value
+     * @return {string} WARNING! Do NOT use for innerHTML.
+     */
+    self.massageAttributeOutput = function (value) {
+      const dparser = new DOMParser().parseFromString(value, 'text/html');
+      const div = document.createElement('div');
+      div.innerHTML = dparser.documentElement.textContent;;
+      return div.textContent || div.innerText || '';
+    };
+
+    /**
      * Add task image.
      *
      * @param {string} path Relative
@@ -856,6 +888,9 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
      * @param {string} [options.alt] Text representation
      * @param {string} [options.title] Hover text
      * @param {Boolean} [options.disableImageZooming] Set as true to disable image zooming
+     * @param {string} [options.expandImage] Localization strings
+     * @param {string} [options.minimizeImage] Localization string
+
      */
     self.setImage = function (path, options) {
       options = options ? options : {};
@@ -874,8 +909,8 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
       // Image element
       var $img = $('<img/>', {
         src: H5P.getPath(path, self.contentId),
-        alt: (options.alt === undefined ? '' : options.alt),
-        title: (options.title === undefined ? '' : options.title),
+        alt: (options.alt === undefined ? '' : self.massageAttributeOutput(options.alt)),
+        title: (options.title === undefined ? '' : self.massageAttributeOutput(options.title)),
         on: {
           load: function () {
             self.trigger('imageLoaded', this);
@@ -931,6 +966,14 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
         return;
       }
 
+      const setAriaLabel = () => {
+        const ariaLabel = $imgWrap.attr('aria-expanded') === 'true'
+          ? options.minimizeImage 
+          : options.expandImage;
+          
+          $imgWrap.attr('aria-label', `${ariaLabel} ${options.alt}`);
+        };
+
       var sizeDetermined = false;
       var determineSize = function () {
         if (sizeDetermined || !$img.is(':visible')) {
@@ -944,13 +987,18 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
           .on('click', function (event) {
             if (event.which === 1) {
               scaleImage.apply(this); // Left mouse button click
+              setAriaLabel();
             }
           }).on('keypress', function (event) {
             if (event.which === 32) {
               event.preventDefault(); // Prevent default behaviour; page scroll down
               scaleImage.apply(this); // Space bar pressed
+              setAriaLabel();
             }
           });
+
+        setAriaLabel();
+
         sections.image.$element.removeClass('h5p-question-image-fill-width');
 
         sizeDetermined  = true; // Prevent any futher events
@@ -1322,15 +1370,16 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
       buttons[id] = {
         isTruncated: false,
         text: text,
-        isVisible: false
+        isVisible: false,
+        ariaLabel: options['aria-label']
       };
+
       // The button might be <button> or <a>
       // (dependent on options.href set or not)
       var isAnchorTag = (options.href !== undefined);
       var $e = buttons[id].$element = JoubelUI.createButton($.extend({
         'class': 'h5p-question-' + id,
         html: text,
-        title: text,
         on: {
           click: function (event) {
             handleButtonClick();
@@ -1341,6 +1390,8 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
         }
       }, options));
       buttonOrder.push(id);
+
+      H5P.Tooltip($e.get(0), {tooltipSource: 'data-tooltip'});
 
       // The button might be <button> or <a>. If <a>, the space key is not
       // triggering the click event, must therefore handle this here:
@@ -1413,7 +1464,14 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
 
       // Determine parent element
       if (options.$parentElement) {
-        confirmationDialog.appendTo(options.$parentElement.get(0));
+        const parentElement = options.$parentElement.get(0);
+        let dialogParent;
+        // If using h5p-content, dialog will not appear on embedded fullscreen
+        if (parentElement.classList.contains('h5p-content')) {
+          dialogParent = parentElement.querySelector('.h5p-container');
+        }
+
+        confirmationDialog.appendTo(dialogParent ?? parentElement);
       }
       else {
 
