@@ -10,7 +10,7 @@ This folder includes (among others):
 
 ----
 ### Notes:  
-1. H5p files may conveniently be viewed by using the [Lumi](https://lumi.education/en/) app.
+1. H5P files may conveniently be viewed by using the [Lumi](https://lumi.education/en/) app.
 2. Many H5Ps may be saved as sinlge-page HTML files by using the Lumi softare: open the H5P in the Lumi software then export as HTML; see examples here: [`h5p-LET-GenEd-Math-HTML`](https://github.com/justineuro/h5p-LET-GenEd-Math-HTML).
   
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">h5p-LET-GenEd-Math</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/justineuro/" property="cc:attributionName" rel="cc:attributionURL">Justine Leon A. Uro</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/justineuro/h5p-LET-GenEd-Math" rel="dct:source">https://github.com/justineuro/h5p-LET-GenEd-Math</a>.
